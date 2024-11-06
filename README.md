@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/Edilsonss123/teste123milhas/main/resources/img/teste123Milhas.png" width="600" height="300">
 </p>
 
-# Teste 123Milhas Back-end
+# API agrupando voos Back-end
 
  Projeto com o objetico consumir e disponibilar dados através de API padrão REST.
  Projeto feito com uso da framework Laravel.
