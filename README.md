@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Edilsonss123/teste123milhas/main/resources/img/teste123Milhas.png" width="600" height="300">
-</p>
-
 # API agrupando voos Back-end
 
  Projeto com o objetico consumir e disponibilar dados através de API padrão REST.
@@ -14,9 +10,8 @@
 
 ## Aplicação
 
-- Host: [teste123milhas.herokuapp.com](http://teste123milhas.herokuapp.com)
-- GET: [/api/flight/search](http://teste123milhas.herokuapp.com/api/flight/search) -> Lista todos os voos disponíveis
-- GET: [/api/flight/search/group](http://teste123milhas.herokuapp.com/api/flight/search/group) -> Lista os voos agrupados por tarifa e nos valores dos voos de ida/volta
+- GET: /api/flight/search -> Lista todos os voos disponíveis
+- GET: /api/flight/search/group -> Lista os voos agrupados por tarifa e nos valores dos voos de ida/volta
 
 ## Rotas e chamadas Postman
 
@@ -27,7 +22,7 @@
 Clone este repositório
 
 ```
-git clone https://github.com/Edilsonss123/teste123milhas.git teste123milhas
+git clone https://github.com/Edilsonss123/api-agrupando-voos.git api-agrupando-voos
 ```
 Acesse a pasta do projeto no terminal/cmd
 
